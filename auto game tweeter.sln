@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "auto game tweeter", "auto game tweeter\auto game tweeter.pyproj", "{7F49B4C8-A547-45BB-AF89-BBCC17B4D94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F49B4C8-A547-45BB-AF89-BBCC17B4D94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F49B4C8-A547-45BB-AF89-BBCC17B4D94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E598A1CD-1312-4944-8967-79B0EDE64D99}
+	EndGlobalSection
+EndGlobal
